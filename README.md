@@ -14,7 +14,7 @@ This website includes:
   HTML5
   CSS
 ## Live Demo
-  Check it out here [Click here to view](https://sinomntungwa.github.io/my-first-html-project/)
+  Check it out here [Click here to view](https://SinoMntungwa.github.io/my-first-html-project/)
 
 ## Author
 **Repunzel (Sino)**
